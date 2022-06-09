@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<!--  We are Nexus-Corporation Developers and we will work on open source projects which everyone of you can download edit and debug but not upload as their`s.
-
-**Here are some ideas to get you started:**
+<!--  
+**Hello! We are Nexus-Corporation Developers and we will work on open source projects which everyone of you can download edit and debug but not upload as their`s.:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
